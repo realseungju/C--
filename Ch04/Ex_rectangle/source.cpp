@@ -25,6 +25,6 @@ int main()
 
     rect.width = wid;
     rect.height = hei;
-    
+
     cout << "사각형의 면적은 " << rect.getArea() << endl;
 }
